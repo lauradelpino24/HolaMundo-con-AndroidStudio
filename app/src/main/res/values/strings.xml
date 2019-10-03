@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="texto">¡Hola mundo!</string>
+    <string name="boton">Pulsame</string>
+    <string name="over">Game Over</string>
+</resources>
